@@ -39,3 +39,4 @@ function resetGame() {
     lostDisplay.textContent = lost; 
     console.log('Игра сброшена. Начинаем заново!');
 }
+.
