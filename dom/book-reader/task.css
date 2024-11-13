@@ -131,3 +131,23 @@ body {
 .text_color_whitesmoke {
   background: whitesmoke;
 }
+
+.book {
+  padding: 20px;
+  transition: all 0.3s;
+}
+
+.font-size_active, .color_active {
+  font-weight: bold;
+}
+
+.book_fs-small { font-size: 12px; }
+.book_fs-big { font-size: 24px; }
+
+.book_color-gray { color: gray; }
+.book_color-whitesmoke { color: whitesmoke; }
+.book_color-black { color: black; }
+
+.book_bg-gray { background-color: gray; }
+.book_bg-black { background-color: black; color: white; }
+.book_bg-white { background-color: white; }
